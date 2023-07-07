@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FARMPLACE</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    {% include "../../partials/header.njk" %}
+    <main class="product">
+        <div class="product__wrap">
+            <div class="product__title">
+                <p class="product__title-text">농장의 모든 정보는</p>
+                <p class="product__title-text">돈버소에서 확인하자!</p>
+            </div>
+            <div class="product__detail">
+                <p class="product__detail-text">농가총합플랫폼 돈버소에서 알려주는</p>
+                <p class="product__detail-text">한우 농가관리,우시장 정보,농가현황정보 등</p>
+                <p class="product__detail-text">다양한 전보를 만나보세요.</p>
+            </div>
+            <a class="product__app-link" href="http://xn--lq1br9no9d.com/">
+                <img class="product__applogo" src="../images/backgrounds/applogo.png" alt="applogo">
+            </a>
+            
+            <div class="product__dowunload">
+                <a class="product__appstore-link" href="https://play.google.com/store/apps/details?id=com.donbeoso.mobile&hl=ko">
+                    <img class="product__appstore" src="../images/backgrounds/googleplaylogo.png" alt="applogo">
+                </a>
+                <a class="product__googleplay-link" href="https://apps.apple.com/kr/app/apple-store/id6444301645">
+                    <img class="product__googleplay" src="../images/backgrounds/appstorelogo.svg" alt="applogo">
+                </a>
+            </div>
+        </div>
+    </main>
+    {% include "../../partials/footer.njk" %}
+</body>
+</html>
