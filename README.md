@@ -5,6 +5,9 @@ farmplace_homepage [nunjucks,nodejs]
 
 회사 서비스 및 자사 플랫폼 소개를 위한 홈페이지 입니다.
 
+nunjucks,nodejs를 이용해 개발하였으며
+AWS EC2를 이용해 배포해보았습니다.
+
 ## 홈페이지 도메인
 
 http://farmplace.co.kr/ 
