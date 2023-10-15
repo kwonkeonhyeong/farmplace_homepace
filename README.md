@@ -20,7 +20,7 @@ http://farmplace.co.kr/
 - 메인화면
 
 
-<img width="948" alt="홈페이지 화면1" src="https://github.com/kwonkeonhyeong/farmplace_homepace/assets/138849238/f9359a3f-83ea-4762-b14f-4d8742fbe7b8">
+<img width="1280" alt="홈페이지 화면 1" src="https://github.com/kwonkeonhyeong/farmplace_homepace/assets/138849238/ae2b32aa-77a7-462b-acd6-8207362af1e9">
 
 
 - 회사소개화면 - 1
